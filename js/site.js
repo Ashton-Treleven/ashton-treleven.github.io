@@ -16,3 +16,5 @@ function WelcomeMessage() {
 }
 
 WelcomeMessage()
+
+localStorage.setItem("It's a secret to everybody.","YIPPEE!!")
